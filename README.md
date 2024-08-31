@@ -62,4 +62,4 @@ This will match lines with zero or more occurrences of the letter 'a'.
 
 - If the pattern is not found or if there's an error, the script will return an appropriate message.
 - Be cautious with your regular expressions, as certain patterns might cause the script to be suspended, requiring you to adjust the expression or file content.
-```
+
