@@ -13,10 +13,6 @@
 ## Installation
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/grep-javacc.git
-   cd grep-javacc
-   ```
 
 2. **Compile the JavaCC Grammar:**
    ```bash
