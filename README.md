@@ -1,6 +1,3 @@
-Sure! Here's the updated `README.md` file with the additional instructions included:
-
-```markdown
 # LightGrep Compiler
 
 **LightGrep** is a lightweight text search tool built with JavaCC that allows you to search for patterns in a text file using regular expressions. It mimics the basic functionality of the UNIX `grep` command but is implemented entirely in Java.
